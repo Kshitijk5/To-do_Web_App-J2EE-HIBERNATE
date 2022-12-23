@@ -1,0 +1,12 @@
+.nav-color{
+	background: #7c3aed;
+}
+.wrapper{
+	display: flex;
+	
+}
+.btn{
+	display:inline-block;
+	width:2.2cm;
+	margin-right:8px;
+}
